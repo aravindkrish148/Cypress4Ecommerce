@@ -19,7 +19,7 @@ Cypress sample test framework for Ecommerce Site
 
 
 
-**GIT steps :***
+**GIT steps :**
 1. Go to any folder destination : cd /path/to/your/folder
 2. Clone the Repo : git clone https://github.com/aravindkrish148/Cypress4Ecommerce.git
    [Make changes in code and updating]
