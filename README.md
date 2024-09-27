@@ -10,12 +10,11 @@ Cypress sample test framework for Ecommerce Site
 3. From the Root folder give 'npm install' command so that the libraries in package.json gets downloaded
 4. Running Code
        a. To run fully : npm cypress run
-   
-
-
-
-
-
+       b. For specific Spec file : npx cypress run --spec "./cypress/e2e/ntoScript.cy.js"
+       c. For running all tests in a Folder : npx cypress run --spec "cypress/regression/"
+       d. Chrome headless:  npx cypress run --browser chrome 
+       e. Chrome headed browsers : npx cypress run --browser chrome --browser-executable-path "path/to/chrome" 
+       f. 
 
 
 
